@@ -4,7 +4,7 @@ Disclaimer: I had some issues running this on docker using the cpu, thus the sch
 The description asked for a makefile, I'm pretty sure this is a typo, considering that python does not require
 a makefile - stating this just in case.
 
-
+Takes in an image as the input - the program will run differently with BW and RGB/RGBA images
 
 
 
